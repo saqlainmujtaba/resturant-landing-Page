@@ -8,13 +8,15 @@ A fully responsive and modern restaurant landing page built with **HTML, CSS, an
 
 ## 🚀 Live Preview
 
-Coming soon… (or add your deployed Vercel/Netlify URL here)
+[Click here](https://resturant-landing-page-saqlain.vercel.app/)
 
 ---
 
 ## 📸 Screenshots
 
-<img src="screenshot.png" alt="Restaurant Landing Page" width="100%" />
+<img src="/screenshot 1.png" alt="Restaurant Landing Page" width="100%" />
+<img src="/screenshot 2.png" alt="Restaurant Landing Page" width="100%" />
+<img src="/screenshot 3.png" alt="Restaurant Landing Page" width="100%" />
 
 ---
 
@@ -41,7 +43,7 @@ Coming soon… (or add your deployed Vercel/Netlify URL here)
 
 ## 📂 Folder Structure
 
-
+```bash
 root/
 ├── public/
 │ └── pizza-logo.png
@@ -62,8 +64,7 @@ root/
 │ └── main.jsx
 ├── index.html
 └── README.md
-
-
+```
 
 
 ---
