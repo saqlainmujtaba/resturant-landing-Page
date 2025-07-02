@@ -1,12 +1,103 @@
-# React + Vite
+# 🍕 Restaurant Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive and modern restaurant landing page built with **HTML, CSS, and React (Vite)**. Designed to look great on both desktop and mobile devices. This project showcases essential sections like navigation, food categories, menu items, testimonials, and a contact form.
 
-Currently, two official plugins are available:
+> Developed by **Saqlain Mujtaba**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Coming soon… (or add your deployed Vercel/Netlify URL here)
+
+---
+
+## 📸 Screenshots
+
+<img src="screenshot.png" alt="Restaurant Landing Page" width="100%" />
+
+---
+
+## 🔥 Features
+
+- ✅ Responsive Navbar with hamburger menu toggle
+- ✅ Hero section with call-to-action
+- ✅ Food category showcase
+- ✅ Menu listing with images and prices
+- ✅ Customer testimonials section
+- ✅ Contact form UI
+- ✅ Footer with credits
+
+---
+
+## 🛠️ Tech Stack
+
+- React (with Vite)
+- HTML5 & CSS3
+- JavaScript (JSX)
+- Responsive Media Queries
+
+---
+
+## 📂 Folder Structure
+
+
+root/
+├── public/
+│ └── pizza-logo.png
+├── src/
+│ ├── components/
+│ │ └── Contact.jsx
+│ │ └── Food.jsx
+│ │ └── FoodMenu.jsx
+│ │ └── Footer.jsx
+│ │ └── Navbar.jsx
+│ │ └── ShowCase.jsx
+│ │ └── Testimonials.jsx
+├── pages/
+│ │ └── Home.jsx
+│ ├── App.css
+│ ├── App.jsx
+│ └── index.css
+│ └── main.jsx
+├── index.html
+└── README.md
+
+
+
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the repository
+
+
+git clone https://github.com/saqlainmujtaba/resturant-landing-page.git
+cd resturant-landing-page
+
+
+
+
+### 2. Install dependencies
+
+npm install
+
+
+
+### 3. Run the project locally
+npm run dev
+Then open your browser and go to:
+👉 http://localhost:5173
+
+
+
+
+
+🙋‍♂️ About the Developer
+**Muhammad Saqlain Mujtaba**
+
+
+🧑‍💻 **Full Stack Developer & Web Designer**  
+📧 [hafizsaqlainmujtaba@gmail.com](mailto:hafizsaqlainmujtaba@gmail.com)  
+🌐 GitHub: [@saqlainmujtaba](https://github.com/saqlainmujtaba)
